@@ -1,0 +1,20 @@
+.centre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50vh;
+    width: 800px;
+    height: 300px;
+}
+.carte{
+    background-color: aqua;
+    box-shadow: 4px 4px 7px black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+img{
+    height: 300px;
+}
